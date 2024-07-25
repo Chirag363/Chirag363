@@ -1,5 +1,5 @@
  
-<img src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="GitHub Banner" style="width:100%; height:auto;">
+<img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="GitHub Banner" style="width:100%; height:auto;">
 
 <h1 align="center">Hi 👋, I'm Chirag Patil</h1>
 <h3 align="center">Passionately Crafting the Web: Creative Journeys in Development</h3>
