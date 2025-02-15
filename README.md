@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag363&label=Profile%20views&color=0e75b6&style=flat" alt="chirag363" /> </p>
 
-- 🔭 I’m currently working on **Chat-App**
+- 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **MERN Stack**
 
