@@ -1,136 +1,106 @@
 <div align="center">
 
-# Hi, I'm Chirag Patil 👋
+<img src="https://i.pinimg.com/originals/48/db/d3/48dbd3dd282e90737625bda891e34f1b.gif" width="330" alt="Coding" />
+
+# Chirag Patil
 
 ### Agentic AI Engineer
 
-Building production-grade AI systems, intelligent agents, backend platforms, and AI-powered digital products.
+Building production AI systems, intelligent workflows, backend platforms and AI-powered applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag_Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragpatil51/)
-[![Email](https://img.shields.io/badge/Email-chinu7374%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinu7374@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=chirag363&style=for-the-badge&color=blueviolet)
+<a href="https://www.linkedin.com/in/chiragpatil51/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:chinu7374@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=chirag363&label=Profile%20Views&color=7c3aed&style=flat-square" />
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I'm an **Agentic AI Engineer at Humane Cognition Lab**, working on production AI systems across digital health and intelligent automation.
+## About
 
-My work primarily focuses on designing and building systems where LLMs can interact with real applications, APIs, databases, tools, knowledge sources, and workflows reliably.
+I'm an **Agentic AI Engineer at Humane Cognition Lab**, working across AI agents, backend systems, mobile & web applications, databases and cloud infrastructure.
 
-I work across the complete engineering lifecycle — from **agent architecture and backend services to databases, cloud infrastructure, integrations, evaluation, and production deployment**.
+Currently focused on **Agentic AI, RAG, Voice AI, tool-enabled workflows and production-ready AI systems**.
 
-### Core Areas
-
-- Agentic AI systems and autonomous workflows
-- LLM orchestration and tool-calling architectures
-- Retrieval-Augmented Generation and contextual AI
-- Agent memory and context management
-- AI safety and execution guardrails
-- LLM evaluation and reliability
-- Voice AI and real-time AI interactions
-- Backend and API architecture
-- Cloud infrastructure and production deployments
-- AI-powered web and mobile applications
+</div>
 
 ---
 
-## Current Engineering Focus
-
-Currently working on production systems involving:
-
-- **Agentic workflows** that operate across multiple application capabilities
-- **AI assistants** with tool access, structured execution and contextual reasoning
-- **RAG pipelines** for application and domain-specific knowledge
-- **Long-term context and memory systems**
-- **Voice AI pipelines** using speech recognition, LLMs and speech synthesis
-- **AI safety layers**, permission boundaries and tool execution controls
-- **PostgreSQL-based backend architectures**
-- **Redis caching** for high-traffic application workloads
-- **AWS infrastructure** including RDS, S3, IAM and production environments
-- **React Native applications** integrating AI capabilities into mobile workflows
-
----
+<div align="center">
 
 ## Tech Stack
 
-### AI / LLM Engineering
+### AI & Agentic Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=000" />
 
-`LLMs` `Agentic AI` `RAG` `Tool Calling` `Agent Memory` `Context Engineering` `Multi-Agent Systems` `Voice AI`
+<br/><br/>
 
----
-
-### Backend Engineering
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-
-`REST APIs` `WebSockets` `Authentication` `Caching` `Background Workflows` `API Integrations`
+`LLMs` • `Agentic AI` • `RAG` • `Tool Calling` • `Agent Memory` • `Context Engineering` • `Voice AI` • `Evaluation`
 
 ---
 
-### Databases & Infrastructure
+### Backend & Development
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,nodejs,express,fastapi" />
 
-`AWS RDS` `Amazon S3` `IAM` `PostgreSQL` `MongoDB` `Redis` `Railway` `Docker`
+<br/><br/>
+
+`FastAPI` • `Node.js` • `Express` • `REST APIs` • `WebSockets` • `Socket.IO` • `Authentication`
 
 ---
 
 ### Web & Mobile
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
+
+<br/><br/>
+
+`React` • `Next.js` • `MERN` • `React Native` • `Expo` • `Expo Router` • `Android` • `iOS`
 
 ---
 
-## Engineering Interests
+### Data & Cloud
 
-```text
-Agent Architecture
-LLM Evaluation & Observability
-Context Engineering
-Retrieval Systems
-Agent Memory
-AI Safety & Guardrails
-Tool Execution
-Distributed Backend Systems
-Voice AI
-Production AI Infrastructure
-```
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,gcp,docker,linux,git,github" />
+
+<br/><br/>
+
+`PostgreSQL` • `MongoDB` • `MySQL` • `Redis` • `Qdrant`  
+`AWS RDS` • `S3` • `IAM` • `Route 53` • `GCP` • `Firebase` • `Railway` • `Render`
+
+<br/><br/>
+
+Working hands-on with **AWS & GCP** while continuing to strengthen my cloud architecture and infrastructure skills.
 
 ---
 
-## GitHub Statistics
+### Tools & Integrations
 
-<div align="center">
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chirag363&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag363&layout=compact&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=chirag363&hide_border=true" />
+`OAuth / SSO` • `Google APIs` • `Recall AI` • `Cloudinary` • `n8n`
 
 </div>
 
@@ -138,6 +108,26 @@ Production AI Infrastructure
 
 <div align="center">
 
-### Building reliable AI systems that can reason, retrieve, use tools and execute real-world workflows.
+## GitHub
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chirag363&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag363&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=chirag363&theme=github-dark-blue&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chirag363&theme=github-compact&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building reliable AI systems that move from intelligence to execution.
 
 </div>
