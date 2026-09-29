@@ -1,30 +1,143 @@
- 
-<img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="GitHub Banner" style="width:100%; height:auto;">
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Chirag Patil</h1>
-<h3 align="center">Passionately Crafting the Web: Creative Journeys in Development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3484830/screenshots/16787618/typing-guy-animation.gif">
+# Hi, I'm Chirag Patil 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag363&label=Profile%20views&color=0e75b6&style=flat" alt="chirag363" /> </p>
+### Agentic AI Engineer
 
-- 🔭 I’m currently working on **Portfolio**
+Building production-grade AI systems, intelligent agents, backend platforms, and AI-powered digital products.
 
-- 🌱 I’m currently learning **MERN Stack**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag_Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragpatil51/)
+[![Email](https://img.shields.io/badge/Email-chinu7374%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinu7374@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=chirag363&style=for-the-badge&color=blueviolet)
 
-- 💬 Ask me about **Web Development**
+</div>
 
-- 📫 How to reach me **chinu7374@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chiragpatil51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chiragpatil51/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I'm an **Agentic AI Engineer at Humane Cognition Lab**, working on production AI systems across digital health and intelligent automation.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag363&show_icons=true&locale=en&layout=compact" alt="chirag363" /></p>
+My work primarily focuses on designing and building systems where LLMs can interact with real applications, APIs, databases, tools, knowledge sources, and workflows reliably.
 
+I work across the complete engineering lifecycle — from **agent architecture and backend services to databases, cloud infrastructure, integrations, evaluation, and production deployment**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag363&" alt="chirag363" /></p>
+### Core Areas
+
+- Agentic AI systems and autonomous workflows
+- LLM orchestration and tool-calling architectures
+- Retrieval-Augmented Generation and contextual AI
+- Agent memory and context management
+- AI safety and execution guardrails
+- LLM evaluation and reliability
+- Voice AI and real-time AI interactions
+- Backend and API architecture
+- Cloud infrastructure and production deployments
+- AI-powered web and mobile applications
+
+---
+
+## Current Engineering Focus
+
+Currently working on production systems involving:
+
+- **Agentic workflows** that operate across multiple application capabilities
+- **AI assistants** with tool access, structured execution and contextual reasoning
+- **RAG pipelines** for application and domain-specific knowledge
+- **Long-term context and memory systems**
+- **Voice AI pipelines** using speech recognition, LLMs and speech synthesis
+- **AI safety layers**, permission boundaries and tool execution controls
+- **PostgreSQL-based backend architectures**
+- **Redis caching** for high-traffic application workloads
+- **AWS infrastructure** including RDS, S3, IAM and production environments
+- **React Native applications** integrating AI capabilities into mobile workflows
+
+---
+
+## Tech Stack
+
+### AI / LLM Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+
+`LLMs` `Agentic AI` `RAG` `Tool Calling` `Agent Memory` `Context Engineering` `Multi-Agent Systems` `Voice AI`
+
+---
+
+### Backend Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+`REST APIs` `WebSockets` `Authentication` `Caching` `Background Workflows` `API Integrations`
+
+---
+
+### Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+`AWS RDS` `Amazon S3` `IAM` `PostgreSQL` `MongoDB` `Redis` `Railway` `Docker`
+
+---
+
+### Web & Mobile
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## Engineering Interests
+
+```text
+Agent Architecture
+LLM Evaluation & Observability
+Context Engineering
+Retrieval Systems
+Agent Memory
+AI Safety & Guardrails
+Tool Execution
+Distributed Backend Systems
+Voice AI
+Production AI Infrastructure
+```
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chirag363&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag363&layout=compact&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=chirag363&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building reliable AI systems that can reason, retrieve, use tools and execute real-world workflows.
+
+</div>
